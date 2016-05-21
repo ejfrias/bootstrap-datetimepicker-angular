@@ -8,7 +8,9 @@ Angular 1.5.x Component for Eonasdan's bootstrap-datetimepicker
 
 ### Requirements
 [jQuery](https://jquery.com)
+
 [Bootstrap](https://github.com/twbs/bootstrap)
+
 [Eonasdan's date/time picker widget](https://github.com/Eonasdan/bootstrap-datetimepicker)
 
 
