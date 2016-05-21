@@ -20,6 +20,11 @@ Just add a bootstrap-datetimepicker-angular.js after bootstrap-datetimepicker.js
 <script src="/path/to/bootstrap-datetimepicker-angular.js"></script>
 ```
 
+Require the component in your module
+```
+angular.module('myApp', ['bootstrap-datetimepicker-angular'])
+```
+
 Then, add the `<date-time-picker><date-time-picker>` component anywhere on your app:
 ```
 <script src="/path/to/tooltip.js"></script>
