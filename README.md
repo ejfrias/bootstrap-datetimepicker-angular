@@ -25,9 +25,9 @@ Require the component in your module
 angular.module('myApp', ['bootstrap-datetimepicker-angular'])
 ```
 
-Then, add the `<date-time-picker><date-time-picker>` component anywhere on your app:
+Then, add the `<date-time-picker />` component anywhere on your app:
 ```
-<script src="/path/to/tooltip.js"></script>
+<date-time-picker ng-model="date" placeholder="Pick a date"></date-time-picker>
 ```
 
 
