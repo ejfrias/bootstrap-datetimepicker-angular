@@ -32,3 +32,4 @@ Name | Type | Required | Description
 ---- | ---- | ------- | -----------
 ng-model | string | required | Scope property.
 placeholder | string | optional | Placeholder of the input element.
+format | string | optional | DateTime format based from moment.js

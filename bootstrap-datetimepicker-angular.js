@@ -21,7 +21,7 @@ angular.module('bootstrap-datetimepicker-angular', [])
 		picker.datetimepicker({
 			useCurrent: false, //Important! See issue #1075
 			allowInputToggle: true,
-			format: 'YYYY-MM-DD'
+			format: $attrs.format || 'YYYY-MM-DD'
 		});
 		
 		if( $attrs.link && $attrs.linktype ){
