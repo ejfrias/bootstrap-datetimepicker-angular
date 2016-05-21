@@ -7,7 +7,7 @@ angular.module('bootstrap-datetimepicker-angular', [])
 	},
 	template: [
 		'<div class="input-group date">',
-			'<input type="text" class="form-control" placeholder="{{$ctrl.placeholder}}" />',
+			'<input type="text" class="form-control" placeholder="{{$ctrl.placeholder || \'Pick a date\'}}" />',
 			'<span class="input-group-addon clickable">',
 				'<i class="glyphicon glyphicon-calendar"></i>',
 			'</span>',
