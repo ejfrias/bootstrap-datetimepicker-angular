@@ -3,7 +3,7 @@ Angular 1.5.x Component for Eonasdan's bootstrap-datetimepicker
 
 
 ### Demo
-[https://ejfrias.github.io/bootstrap-datetimepicker-angular](https://ejfrias.github.io/bootstrap-datetimepicker-angular)
+[http://ejfrias.com/playground/bootstrap-datetimepicker-angular](http://ejfrias.com/playground/bootstrap-datetimepicker-angular)
 
 
 ### Requirements
